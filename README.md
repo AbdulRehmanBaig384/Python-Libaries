@@ -20,13 +20,6 @@ This repository contains essential Python libraries for data analysis and visual
 
 ⿤ Seaborn
 
-
-🤝 Contributing
-
-📜 License
-
-
-
 ---
 
 📥 Installation
