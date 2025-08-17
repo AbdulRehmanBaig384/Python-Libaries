@@ -1,5 +1,5 @@
 <p align='center'>
-<img width="844" height="675" alt="image" src="https://github.com/user-attachments/assets/c8781e5c-1ed9-4ba8-a4d9-32412335446d" />
+<img width="844" height="675" alt="image" src="https://github.com/user-attachments/assets/c8781e5c-1ed9-4ba8-a4d9-32412335446d" /></p>
 
 📊 Python Libraries for Data Analysis & Visualization
 
