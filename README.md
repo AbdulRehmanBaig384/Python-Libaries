@@ -1,4 +1,4 @@
-
+<p align='center'>
 <img width="844" height="675" alt="image" src="https://github.com/user-attachments/assets/c8781e5c-1ed9-4ba8-a4d9-32412335446d" />
 
 <h1>📊 Python Libraries for Data Analysis & Visualization</h1>
